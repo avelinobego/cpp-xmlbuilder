@@ -1,0 +1,11 @@
+[
+{
+  "directory": "/home/avelino/Projetos/Cpp/XmlBuilder",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-std=c++17", "-o", "build/.objs/XmlBuilder/linux/x86_64/debug/src/xmlbuilder.cpp.o", "src/xmlbuilder.cpp"],
+  "file": "src/xmlbuilder.cpp"
+},
+{
+  "directory": "/home/avelino/Projetos/Cpp/XmlBuilder",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-std=c++17", "-o", "build/.objs/XmlBuilder/linux/x86_64/debug/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
